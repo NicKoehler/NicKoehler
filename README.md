@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>NicKoehler</b></h1>
-<h3 align="center"><i>· Just a beginner that wants to learn computer science ·</i></h3>
+<h3 align="center"><i>· Just a beginner, learning computer science ·</i></h3>
 <br>
 <div align="center">
 	<a href="https://github.com/nickoehler"> <img src="https://github-readme-stats.vercel.app/api?username=nickoehler&show_icons=true&count_private=true"></a>
